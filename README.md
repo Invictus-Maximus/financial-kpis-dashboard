@@ -31,3 +31,7 @@ segmento y geografía, identificando tendencias de crecimiento QoQ e YoY.
 - Segmento que concentra el **[44.22%]** de las ventas: **[Government]**
 
 ## Dashboard Power BI
+<img width="1457" height="833" alt="image" src="https://github.com/user-attachments/assets/99e5af1c-bd36-4c43-b095-c4226623484a" />
+<img width="1487" height="806" alt="image" src="https://github.com/user-attachments/assets/187ab0f5-7bf2-4c7f-b79a-7e4fe55786fb" />
+<img width="1488" height="844" alt="image" src="https://github.com/user-attachments/assets/fdc7fe91-4a24-4796-8e93-948df364cb27" />
+
