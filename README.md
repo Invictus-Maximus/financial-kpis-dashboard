@@ -1,11 +1,3 @@
-Margen bruto global: 14.23% — por debajo del benchmark del 15%
-Producto más rentable: Amarilla con 29.3% de margen
-Producto con más ventas: Paseo con $33M en ventas
-Crecimiento YoY brutal: +249% de 2013 Q1 a 2014 Q1
-Tasa de descuento: 7.93% — relativamente controlada
-
-
-
 # 💰 Financial KPIs Dashboard
 
 ## Objetivo
