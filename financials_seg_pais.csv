@@ -1,0 +1,26 @@
+﻿segment,country,ventas,utilidad,margen
+Channel Partners,Canada,491164.14,358978.14,73.19
+Channel Partners,France,372090.36,271581.36,72.93
+Channel Partners,Germany,336425.88,247358.88,73.33
+Channel Partners,Mexico,234379.08,170890.08,72.62
+Channel Partners,United States of America,366534.18,267994.68,73.04
+Enterprise,Canada,3967491.25,-121508.75,-2.65
+Enterprise,France,3890890.63,-95749.37,-3.28
+Enterprise,Germany,4086826.25,-101473.75,-3.24
+Enterprise,Mexico,3315881.25,-120678.75,-4.14
+Enterprise,United States of America,4350605.0,-175135.0,-2.92
+Government,Canada,10741236.52,2258471.52,29.33
+Government,France,12127782.72,2709915.22,29.62
+Government,Germany,11452895.94,2677175.94,29.85
+Government,Mexico,9791599.38,2039159.38,28.62
+Government,United States of America,8390746.12,1703451.12,29.23
+Midmarket,Canada,510213.98,132488.98,25.82
+Midmarket,France,593802.08,164542.08,28.23
+Midmarket,Germany,301344.75,85354.75,27.49
+Midmarket,Mexico,511136.4,150546.4,28.72
+Midmarket,United States of America,465385.88,127170.88,28.12
+Small Business,Canada,9177549.0,900799.0,8.68
+Small Business,France,7369606.5,730731.5,9.69
+Small Business,Germany,7327848.0,771973.0,11.37
+Small Business,Mexico,7096356.0,667606.0,9.62
+Small Business,United States of America,11456559.0,1072059.0,8.99
